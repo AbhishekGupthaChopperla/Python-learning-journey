@@ -92,6 +92,51 @@ Python-learning-journey/
 
 ---
 
+## 🚀 Learning Progress
+
+### GitHub & Setup
+- [x] Created GitHub Account
+- [x] Created `Python-learning-journey` Repository
+- [x] Added Repository Description
+- [x] Added README.md
+- [x] Added MIT License
+- [x] Added Python `.gitignore`
+- [x] Learned GitHub Basics
+- [x] Learned Markdown Basics
+- [x] Learned about Repositories, Commits, and README Files
+
+### Current Focus
+- [ ] Start Day 1 - Working with Variables and Input
+
+### Future Goals
+- Build Python Projects
+- Learn Git and GitHub Workflow
+- Explore AI Automation
+- Create a Professional Portfolio
+- Start Freelancing## 🚀 Learning Progress
+
+### GitHub & Setup
+- [x] Created GitHub Account
+- [x] Created `Python-learning-journey` Repository
+- [x] Added Repository Description
+- [x] Added README.md
+- [x] Added MIT License
+- [x] Added Python `.gitignore`
+- [x] Learned GitHub Basics
+- [x] Learned Markdown Basics
+- [x] Learned about Repositories, Commits, and README Files
+
+### Current Focus
+- [ ] Start Day 1 - Working with Variables and Input
+
+### Future Goals
+- Build Python Projects
+- Learn Git and GitHub Workflow
+- Explore AI Automation
+- Create a Professional Portfolio
+
+---
+
 ## 💡 About This Repository
 
 This repository serves as a collection of my learning projects, coding exercises, and experiments. It reflects my growth as a programmer and my commitment to continuous learning.
