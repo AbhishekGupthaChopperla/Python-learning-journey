@@ -2,16 +2,18 @@
 
 Welcome to my Python Learning Journey!
 
-This repository contains my Python practice programs, projects, notes, and experiments as I learn programming and software development.
+This repository documents my progress as I learn Python programming, build projects, strengthen problem-solving skills, and explore software development.
 
-## 🎯 Objectives
+---
 
-- Learn Python programming from fundamentals to advanced concepts
-- Build practical projects and applications
-- Improve problem-solving and logical thinking
-- Learn Git and GitHub for version control
-- Explore automation, web development, and AI applications
-- Create a strong portfolio of projects
+## 🎯 Goals
+
+- Learn Python from scratch
+- Build practical projects
+- Improve problem-solving skills
+- Learn Git and GitHub
+- Explore AI and Automation
+- Create a strong developer portfolio
 
 ---
 
@@ -21,35 +23,39 @@ This repository contains my Python practice programs, projects, notes, and exper
 - Git
 - GitHub
 - Visual Studio Code
+- PyCharm
 
 ---
 
-## 📚 Learning Areas
+## 📚 Learning Roadmap
 
 ### Beginner Python
-- Variables and Data Types
-- Input and Output
-- Conditional Statements
-- Loops
-- Functions
-- Lists and Dictionaries
-- Error Handling
-- File Handling
+
+- [x] Variables and Data Types
+- [x] Input and Output
+- [ ] Conditional Statements
+- [ ] Loops
+- [ ] Functions
+- [ ] Lists and Dictionaries
+- [ ] Error Handling
+- [ ] File Handling
 
 ### Intermediate Python
-- Object-Oriented Programming (OOP)
-- Modules and Packages
-- CSV and JSON Handling
-- APIs
-- Web Scraping
-- Automation Scripts
+
+- [ ] Object-Oriented Programming (OOP)
+- [ ] Modules and Packages
+- [ ] CSV and JSON
+- [ ] APIs
+- [ ] Web Scraping
+- [ ] Automation Scripts
 
 ### Advanced Python
-- Flask Web Development
-- Databases
-- Data Analysis
-- Machine Learning Basics
-- AI Applications
+
+- [ ] Flask Web Development
+- [ ] Databases
+- [ ] Data Analysis
+- [ ] Machine Learning Basics
+- [ ] AI Applications
 
 ---
 
@@ -58,78 +64,68 @@ This repository contains my Python practice programs, projects, notes, and exper
 ```text
 Python-learning-journey/
 │
-├── beginner-projects/
-├── intermediate-projects/
-├── advanced-projects/
+├── projects/
+│   ├── day-01-band-name-generator/
+│   ├── day-02-tip-calculator/
+│   └── ...
+│
 ├── notes/
+│
 └── README.md
 ```
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects Completed
 
 ### Beginner Projects
-- Calculator
-- Grade Calculator
-- Multiplication Table Generator
-- Password Generator
-- Number Guessing Game
 
-### Intermediate Projects
-- Expense Tracker
-- Student Record Manager
-- File Organizer
-- Weather App
-- Web Scraper
+- [x] Band Name Generator
+- [x] Tip Calculator
 
-### Advanced Projects
-- Telegram Bot
-- AI Chatbot
-- Resume Analyzer
-- Portfolio Website
-- Automation Tools
+### Upcoming Projects
+
+- [ ] Treasure Island Game
+- [ ] Password Generator
+- [ ] Calculator
+- [ ] Number Guessing Game
+- [ ] Hangman Game
 
 ---
 
-## 🚀 Learning Progress
+## 📈 Learning Progress
 
-### GitHub & Setup
+### Completed
+
 - [x] Created GitHub Account
-- [x] Created `Python-learning-journey` Repository
-- [x] Added Repository Description
+- [x] Created Python-learning-journey Repository
 - [x] Added README.md
 - [x] Added MIT License
-- [x] Added Python `.gitignore`
 - [x] Learned GitHub Basics
 - [x] Learned Markdown Basics
-- [x] Learned about Repositories, Commits, and README Files
+- [x] Day - 1 Built Band Name Generator
+- [x] Day - 2 Built Tip Calculator
 
 ### Current Focus
-- [ ] Start Day 1 - Working with Variables and Input
 
-### Future Goals
-- Build Python Projects
-- Learn Git and GitHub Workflow
-- Explore AI Automation
-- Create a Professional Portfolio
+- [ ] Day 3 – Conditional Statements
 
 ---
 
-## 💡 About This Repository
+## 💡 Why This Repository?
 
-This repository serves as a collection of my learning projects, coding exercises, and experiments. It reflects my growth as a programmer and my commitment to continuous learning.
-
----
-
-## ⭐ Future Goals
-
-- Build real-world Python applications
-- Contribute to open-source projects
-- Learn AI and Automation
-- Develop software engineering skills
-- Create a professional developer portfolio
+This repository serves as a public record of my growth as a developer. Every project, exercise, and note represents a step toward becoming a skilled software engineer.
 
 ---
 
-### Happy Coding! 🐍
+## 🌱 Current Learning
+
+I am currently following the **100 Days of Python Bootcamp** and documenting my progress by building projects and sharing my learning journey publicly on GitHub.
+
+---
+
+## ⭐ Support
+
+If you find this repository useful, consider giving it a star.
+
+Every small step contributes to long-term growth.
