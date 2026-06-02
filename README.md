@@ -33,10 +33,10 @@ This repository documents my progress as I learn Python programming, build proje
 
 - [x] Variables and Data Types
 - [x] Input and Output
-- [ ] Conditional Statements
-- [ ] Loops
+- [x] Conditional Statements
+- [x] Loops
 - [ ] Functions
-- [ ] Lists and Dictionaries
+- [x] Lists and Dictionaries
 - [ ] Error Handling
 - [ ] File Handling
 
@@ -82,10 +82,11 @@ Python-learning-journey/
 
 - [x] Band Name Generator
 - [x] Tip Calculator
+- [x] Treasure Island Game
+- [x] Rock Paper Scissors Game
 
 ### Upcoming Projects
 
-- [ ] Treasure Island Game
 - [ ] Password Generator
 - [ ] Calculator
 - [ ] Number Guessing Game
@@ -105,10 +106,12 @@ Python-learning-journey/
 - [x] Learned Markdown Basics
 - [x] Day - 1 Built Band Name Generator
 - [x] Day - 2 Built Tip Calculator
+- [x] Day - 3 Built Treasure hunt Game
+- [x] Day - 4 Built Rock Paper Scissors Game
 
 ### Current Focus
 
-- [ ] Day 3 – Conditional Statements
+- [ ] Day 5
 
 ---
 
@@ -129,3 +132,8 @@ I am currently following the **100 Days of Python Bootcamp** and documenting my 
 If you find this repository useful, consider giving it a star.
 
 Every small step contributes to long-term growth.
+
+## Author
+
+Chopperla Abhishek Guptha
+cabhishekguptha@gmail.com
