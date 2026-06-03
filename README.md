@@ -108,10 +108,11 @@ Python-learning-journey/
 - [x] Day - 2 Built Tip Calculator
 - [x] Day - 3 Built Treasure hunt Game
 - [x] Day - 4 Built Rock Paper Scissors Game
+- [x] Day - 5 Built Password Generator
 
 ### Current Focus
 
-- [ ] Day 5
+- [ ] Day 6 
 
 ---
 
