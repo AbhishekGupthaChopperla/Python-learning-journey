@@ -35,7 +35,7 @@ This repository documents my progress as I learn Python programming, build proje
 - [x] Input and Output
 - [x] Conditional Statements
 - [x] Loops
-- [ ] Functions
+- [x] Functions
 - [x] Lists and Dictionaries
 - [ ] Error Handling
 - [ ] File Handling
@@ -84,6 +84,7 @@ Python-learning-journey/
 - [x] Tip Calculator
 - [x] Treasure Island Game
 - [x] Rock Paper Scissors Game
+- [x] Reeborg's World Few games
 
 ### Upcoming Projects
 
@@ -109,10 +110,11 @@ Python-learning-journey/
 - [x] Day - 3 Built Treasure hunt Game
 - [x] Day - 4 Built Rock Paper Scissors Game
 - [x] Day - 5 Built Password Generator
+- [x] Day - 6 Solved Some problems in reeborg's world (Hurdle, Maze)
 
 ### Current Focus
 
-- [ ] Day 6 
+- [ ] Day 7 
 
 ---
 
