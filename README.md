@@ -78,20 +78,20 @@ Python-learning-journey/
 
 ## 🚀 Projects Completed
 
-### Beginner Projects
+### Projects done so far
 
 - [x] Band Name Generator
 - [x] Tip Calculator
 - [x] Treasure Island Game
 - [x] Rock Paper Scissors Game
+- [x] Password Generator
 - [x] Reeborg's World Few games
+- [x] Habgman Game
 
 ### Upcoming Projects
 
-- [ ] Password Generator
 - [ ] Calculator
 - [ ] Number Guessing Game
-- [ ] Hangman Game
 
 ---
 
@@ -111,10 +111,11 @@ Python-learning-journey/
 - [x] Day - 4 Built Rock Paper Scissors Game
 - [x] Day - 5 Built Password Generator
 - [x] Day - 6 Solved Some problems in reeborg's world (Hurdle, Maze)
+- [x] Day - 7 Built a Hangman Game
 
 ### Current Focus
 
-- [ ] Day 7 
+- [ ] Day 8
 
 ---
 
